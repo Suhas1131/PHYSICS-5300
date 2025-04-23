@@ -1,3 +1,8 @@
+'''
+This  simulation shows us the difference between energy conservation for the Euler and 
+Lagrange methods, I also used it as a template for the other simulations.
+'''
+
 # Run using : 
 #         manim -pql 2body_EuLF.py TwoBody_EuLF
 
